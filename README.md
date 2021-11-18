@@ -1,7 +1,7 @@
 # Productify, Storefront Backend API
 
 <p align="center">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/HossamAbubakr/Productify-Storefront-API/main/logo.png">
 </p>
 
 ## Table of Contents
